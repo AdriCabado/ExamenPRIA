@@ -176,4 +176,6 @@ public class PlayerController : NetworkBehaviour
         _assignedColor = Color.white;
         ApplyColor(Color.white);
     }
+
+    
 }
